@@ -1,0 +1,2 @@
+INSERT INTO students (id, first_name, last_name, check_in_time) VALUES ('1', 'Jenna', 'Jaehnig', '2023-04-20 01:30:00');
+INSERT INTO students (id, first_name, last_name, check_in_time) VALUES ('2', 'Taylor', 'Swift', '2023-04-20 01:30:00');
